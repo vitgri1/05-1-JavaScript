@@ -65,3 +65,5 @@ console.log(sms);
 //Sveiki, mano vardas [name], man yra [age] metai ir as esu is [city].
 const sms2 = `Sveiki, mano vardas ${name}, man yra ${age} metai ir as esu is ${city}.`;
 console.log(sms2);
+
+console.log(sms.length);
