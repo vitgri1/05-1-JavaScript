@@ -80,3 +80,36 @@ console.log(temperatura);
 
 temperatura += 3;
 console.log(temperatura);
+
+
+console.log('----------------');
+
+let svoris = 20;
+console.log(svoris);
+
+svoris++;
+console.log(svoris);
+
+++svoris;
+console.log(svoris);
+
+//priekyje vs gale
+console.log('---------pries---------');
+
+let gg = 0;
+console.log(++gg);
+console.log(++gg);
+console.log(++gg);
+console.log(++gg);
+console.log(++gg);
+console.log(++gg);
+
+console.log('---------po---------');
+
+let hh = 0;
+console.log(hh++);
+console.log(hh++);
+console.log(hh++);
+console.log(hh++);
+console.log(hh++);
+console.log(hh++);
